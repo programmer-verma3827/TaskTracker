@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "College Online Classes",
+      "day": "16th Aug & 9am-5pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "React.Js Learning",
+      "day": "16th Aug & 11am-2pm ",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Leisure Activities",
+      "day": "16th Aug & 4pm-6pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Kite Flying",
+      "day": "16th Aug & 6:30pm-7:30pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Listening Songs",
+      "day": "16th Aug & 8pm-8:40pm",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
