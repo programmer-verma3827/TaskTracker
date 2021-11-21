@@ -1,3 +1,10 @@
+This is a React Js based project in which user can add, remove, sort their day to day tasks entered in the portal. Also, It has backend connectivity in which user can see or have a record of their all day to day tasks. 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
