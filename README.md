@@ -5,6 +5,28 @@ This is a React Js based project in which user can add, remove, sort their day t
 
 
 
+![task2](https://user-images.githubusercontent.com/61836428/144838559-494e312e-f6ca-4d5a-a585-2d1281e8336d.png)
+
+
+
+
+
+
+![task3](https://user-images.githubusercontent.com/61836428/144838588-3442af53-8c1b-41a9-af69-864dc14db632.png)
+
+
+
+
+
+
+
+![task4](https://user-images.githubusercontent.com/61836428/144838628-f73767be-dad2-4695-81b6-e6417d78d535.png)
+
+
+
+
+
+
 
 
 
