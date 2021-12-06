@@ -1,4 +1,4 @@
-This is a React Js based project in which user can add, remove, sort their day to day tasks entered in the portal. Also, It has backend connectivity in which user can see or have a record of their all day to day tasks. 
+This is a React Js based project in which user can add, remove, sort their day to day tasks entered in the portal. Also, It has backend connectivity JSON server in which user can see or have a record of their all day to day tasks. 
 
 
 
