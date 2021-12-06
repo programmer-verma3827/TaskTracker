@@ -1,7 +1,6 @@
 This is a React Js based project in which user can add, remove, sort their day to day tasks entered in the portal. Also, It has backend connectivity in which user can see or have a record of their all day to day tasks. 
 
 
-![Default](https://user-images.githubusercontent.com/61836428/144835370-91b1605f-b1e9-498d-9cd0-a17142987cdb.jpg)
 
 
 
